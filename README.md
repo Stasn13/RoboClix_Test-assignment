@@ -1,4 +1,4 @@
-1. git clone https://github.com/Stasn13/DevelopsToday_testAssignment.git
+1. git clone
 2. $ npm install
    $ npm run dev
    
